@@ -16,16 +16,22 @@ Tableau Public for final visualisation and analysis
 
 # Dashboards Included
 # 1. All-Time Peak CCU (Concurrent Users)
+<img width="1212" height="577" alt="image" src="https://github.com/user-attachments/assets/808e69f5-13e8-4aa1-bfd2-e34ced17e938" />
+
 
 Shows the lifetime highest CCU for each comparable title, using real dates and peak concurrency data.
 Purpose: Understand true market demand and the scale of breakout hits.
 
 # 2. Platform Comparison
+<img width="1235" height="410" alt="image" src="https://github.com/user-attachments/assets/2a362d53-5947-4961-b784-1d40d9af1c8f" />
+
 
 A visual heat-grid showing which platforms each title released on (PC, Xbox, PlayStation, Switch, Mobile).
 Purpose: Identify gaps and opportunities in platform coverage — especially Mobile expansion, which remains under-served in this category.
 
 # 3. F2P Revenue Benchmarks
+<img width="761" height="593" alt="image" src="https://github.com/user-attachments/assets/40aa004a-d2cb-4b05-9a81-42b815eb6589" />
+
 
 Compares lifetime revenue for leading Free-to-Play live-service games with:
 
@@ -37,7 +43,9 @@ Seasonal content
 
 Purpose: Demonstrate how full monetisation stacks correlate with significantly higher lifetime earnings.
 
-4. Paid Game Revenue Benchmarks
+# 4. Paid Game Revenue Benchmarks
+<img width="681" height="366" alt="image" src="https://github.com/user-attachments/assets/19af1c74-9b1b-49b4-9a25-a77699bb0b34" />
+
 
 Visual comparison of lifetime revenue for traditional paid titles (non-F2P).
 Purpose: Highlight the financial gap between paid games and fully monetised F2P live-service games, helping justify F2P/Hybrid models.
